@@ -1,9 +1,5 @@
-# ============================================================
-# 📦 REQUIREMENTS.TXT
-# Run: pip install -r requirements.txt
-# ============================================================
-
-groq>=0.9.0             # Groq SDK — free and fast!
-streamlit>=1.35.0       # Web UI framework — turns Python into a web app!
-requests>=2.31.0        # HTTP requests (Tavily search API)
-python-dotenv>=1.0.0    # Load .env files safely
+fastapi
+uvicorn
+groq
+python-dotenv
+requests
